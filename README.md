@@ -14,6 +14,7 @@ I believe in the power of consistent learning and documentation. This space refl
 
 All learning notes are organized chronologically within year-specific directories. This ensures a clear, sequential record of my daily studies.
 
+
 ├── 2025/
 │   ├── 0626-git-first.md
 │   ├── 0627-git.md
@@ -26,7 +27,6 @@ All learning notes are organized chronologically within year-specific directorie
 ├── 2026/  <- This folder will be created next year for 2026's learnings.
 │   └── ...
 └── ...
-
 
 Each file typically follows a `MMDD-topic.md` or `MMDD-category-topic.md` format for easy identification and navigation.
 
